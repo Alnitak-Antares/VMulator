@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>interrupt routines/INT 1.txt</file>
+        <file>interrupt routines/INT 2.txt</file>
+        <file>interrupt routines/INT 3.txt</file>
+    </qresource>
+</RCC>
