@@ -1,0 +1,3 @@
+CLA R0
+JMP -0x1234
+HLT

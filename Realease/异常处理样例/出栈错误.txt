@@ -1,0 +1,2 @@
+POP R1
+HLT
